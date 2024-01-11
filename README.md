@@ -14,7 +14,7 @@
   <p align="center">
     Machine Learning Project
     <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/aishwaryakadel/forest-fire-prediction"><strong>Explore the Repo »</strong></a>
   </p>
 </div>
 
