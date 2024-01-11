@@ -99,7 +99,7 @@
 
 <!-- CONTACT -->
 ## Contact
-[![Aishwarya Kadel | LinkedIn](https://img.shields.io/badge/Aishwarya Kadel-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
+[![Aishwarya Kadel | LinkedIn](https://img.shields.io/badge/AishwaryaKadel-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
 [![Aishwarya Kadel | G Mail](https://img.shields.io/badge/aishwarayakadel-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
