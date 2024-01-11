@@ -15,11 +15,6 @@
     Machine Learning Project
     <br />
     <a href="https://github.com/aravind9722/Forest-fire_Prediction"><strong>Explore the Repo »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-2%20Model.ipynb"> Model Building</a>
-    ·
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-1%20EDA.ipynb">EDA on Forest Fires dataset</a>
   </p>
 </div>
 
