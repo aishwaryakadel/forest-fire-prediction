@@ -3,6 +3,5 @@ numpy
 pandas
 pymongo
 scikit_learn==1.1.1
-gunicorn
 xgboost
 pymongo[srv]
