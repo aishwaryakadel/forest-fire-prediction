@@ -23,7 +23,6 @@
 ## About The Project
 * Using Data Science and Machine learning, we can build a model that takes in the detected fires dataset learns and detects future fires based on certain Weather report.
 * Storing the Sourced dataset to MongoDB.
-* Building a **Flask App** hosted on **Heroku**.
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
@@ -36,7 +35,6 @@
 ## Steps
 
 * Installing Python, PyCharm, Monogodb, Git to Computer.
-* Creating Flask app by importing `Flask` module.
 * Download the source dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++#).
 * For Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(fire, not fire)`.
 * For Regression Problem algorithm decided to predict the feature `FWI` (Fire weather Index) which is 90%+ correlated to Classes Feature.
