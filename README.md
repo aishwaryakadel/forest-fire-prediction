@@ -34,12 +34,6 @@
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
-## Deployed app
-[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
-](https://forest-fire-predictionv1.herokuapp.com/)
-
-[LINK TO HEROKU APP](https://forest-fire-predictionv1.herokuapp.com/)
-
 <!-- GETTING STARTED -->
 ## Introduction
 *  I used a dataset on **Algerian Forest Fires from UCI**. The dataset contains a culmination of forest fire observations and data in two regions of Algeria: the Bejaia region and the Sidi Bel-Abbes region. 
@@ -84,14 +78,6 @@
 * `/predict_api` route for api testing using `Postman`
 * Create a route `/predict` `/predictR` to get user input for Classification and Regression respectively. 
 * Run the flask app with `app.run()` code.
-
-### Heroku Deployment
-* Create new repo in Github and push all the data using `Git`.
-* Install Heroku CLI and login using `heroku login` and setup the app in Heroku Web.
-* Connect with app `heroku git:remote -a appname`
-* Push to Heroku using `git push heroku main`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
