@@ -124,5 +124,5 @@
 [sklearn]: https://scikit-learn.org/stable/
 
 <!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/aishwarya-kadel-779949242/
+[reach_linkedin]: https://www.linkedin.com/
 [reach_gmail]: mailto:aishwarayakadel@gmail.com?subject=Github
